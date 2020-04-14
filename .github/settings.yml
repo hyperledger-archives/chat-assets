@@ -1,0 +1,11 @@
+repository:
+  name: chat-assets
+  description: Logos for https://chat.hyperledger.org/
+  homepage: https://hyperledger.org/
+  default_branch: master
+  has_downloads: false
+  has_issues: false
+  has_projects: false
+  has_wiki: false
+  archived: false
+  private: false
